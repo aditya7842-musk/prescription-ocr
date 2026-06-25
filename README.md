@@ -163,9 +163,7 @@ python scripts/evaluate_accuracy.py
 
 ## 👤 Built By
 
-**Aditya Joshi**
-B.Tech CSE (AI & ML)
-CMR College of Engineering and Technology, Hyderabad
+[aditya7842-musk](https://github.com/aditya7842-musk)
 
 ---
 
